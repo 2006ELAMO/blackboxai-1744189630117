@@ -1,0 +1,4 @@
+# Required Python packages for Wii to PS2 converter
+pycdlib>=1.11.0  # For ISO creation
+zstandard>=0.15.2  # For RVZ decompression
+tqdm>=4.62.0  # For progress bars
